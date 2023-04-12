@@ -18,7 +18,7 @@ Nesse projeto foram aplicados conceitos de grid e flexbox, keyframes e conceitos
 <br>
 
 <p align="center">
-  <img alt="projeto Spacecream" src="" width="80%">
+  <img alt="projeto Spacecream" src="https://i.imgur.com/3FnAEQe.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
