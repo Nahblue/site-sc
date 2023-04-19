@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Projeto de página de uma sorveteria, aplicando conceitos de grid, responsividade e animações.
 
-- [Visite o projeto online](https://nahblue.github.io/space-cream/)
+- [Visite o projeto online](nahblue.github.io/space-cream-project/)
 
 ## :memo: Licença
 
